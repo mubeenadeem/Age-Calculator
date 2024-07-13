@@ -12,6 +12,7 @@ document.getElementById('btnpress').addEventListener('click', function() {
     var dobDate = new Date(dob); //  string to a Date object
 
     var today = new Date(); 
+    var todayy = new Date(); 
 
     var age = today.getFullYear() - dobDate.getFullYear();
     
