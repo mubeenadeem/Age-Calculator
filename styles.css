@@ -1,0 +1,60 @@
+body {
+    background-color: #f7f7f7;
+    padding-top: 50px;
+}
+.container {
+
+    background-color:white;
+    padding: 10px;
+    max-width: 600px;
+    margin-left: 430px;
+    margin-top: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+
+}
+h1 {
+text-align: center;
+font-size:xx-large;
+font-family: 'Arial', sans-serif;
+
+}
+#btnpress {
+    text-align: center;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.birthdate {
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    font-size: medium;
+
+}
+#btnpress {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: none;
+}
+.calculation {
+    font-weight: bold;
+    font-size: x-large;
+    font-family: 'Arial', sans-serif;
+}
+#birthday {
+    padding-top: 10px;
+padding-left: 150px;
+    border: 1px solid #ccc;
+    border-radius: 6px;  
+    text-align: left;
+    
+  
+
+
+}
+
